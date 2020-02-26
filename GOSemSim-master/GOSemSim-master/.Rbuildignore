@@ -1,0 +1,11 @@
+.svnignore
+^.*\.DS_Store
+Makefile
+README.Rmd
+appveyor.yml
+.travis.yml
+
+docs
+mkdocs
+.github
+site_src

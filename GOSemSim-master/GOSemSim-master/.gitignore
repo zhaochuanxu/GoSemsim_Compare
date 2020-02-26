@@ -1,0 +1,10 @@
+.DS_Store
+.svn
+__pycache__
+*~
+*.Rhistory
+__pycache__
+__init__.py
+__init__.pyc
+src/*.o
+src/*.so
